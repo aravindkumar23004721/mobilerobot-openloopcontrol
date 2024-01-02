@@ -88,8 +88,8 @@ if _name_ == '_main_':
 ```
 
 ## MobileRobot Movement Image:
-![robot1](https://github.com/aravindkumar23004721/mobilerobot-openloopcontrol/assets/148962674/69ed6d20-591b-4c43-84a5-b57c1fb014e0)
-![robo2](https://github.com/aravindkumar23004721/mobilerobot-openloopcontrol/assets/148962674/b194edd1-191d-4e77-84c8-0aedb1c4cfed)
+![WhatsApp Image 2024-01-02 at 12 54 16_040bbc9c](https://github.com/aravindkumar23004721/mobilerobot-openloopcontrol/assets/148962674/248bc86d-8960-461d-b596-5763d7edf717)
+![WhatsApp Image 2024-01-02 at 12 56 48_908bcf12](https://github.com/aravindkumar23004721/mobilerobot-openloopcontrol/assets/148962674/6d22ff47-9c8c-46b5-a089-5f19b8fe0539)
 ![robo3](https://github.com/aravindkumar23004721/mobilerobot-openloopcontrol/assets/148962674/24c4142d-7ccd-45b5-9c42-5ad6a07ac03e)
 
 ## MobileRobot Movement Video:
